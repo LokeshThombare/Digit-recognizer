@@ -1,7 +1,7 @@
 streamlit
 tensorflow
 numpy
-Pickle
+Pillow
 streamlit-drawable-canvas
 matplotlib
 scikit-learn
