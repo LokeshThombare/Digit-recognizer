@@ -83,5 +83,5 @@ streamlit run digit_stream.py
 
 ## 👤 Author
 
-Made by **Vaishnavi**  
+Made by **Lokesh Thombare**
 E&TC Diploma Student — Government Polytechnic Nagpur
